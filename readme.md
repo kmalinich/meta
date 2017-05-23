@@ -1,5 +1,7 @@
 # @thebespokepixel/meta
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/MarkGriffiths/meta.svg)](https://greenkeeper.io/)
+
 > Automatically render project badges into readme and documentation files.
 
 ##### Status
